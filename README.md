@@ -38,3 +38,7 @@ Target for a RIEGL terrestrial laser scanner. The cylinder should be covered in 
 ![Cylinder](images/cylinder-3Dmodel.png)
 
 ***3D model of the cylinder*** *The conical region mates with the inside rim of the cap. Note the three holes for the self-tapping screws.*
+
+
+<br>
+<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
