@@ -11,8 +11,6 @@ Target for a RIEGL terrestrial laser scanner. The cylinder should be covered in 
   * Two 3D-printable components with a cylindrical angled fit
     * Cylinder
     * Caps (print two of these)
-  * **SUGGESTED FILL?**
   * Suggested material: ABS
-* Fasteners
-  * Screws: [#4 Thread Forming, 1/2" - Stainless](https://www.mcmaster.com/96001A210)
+* Screws: 6x [#4 Thread Forming, 1/2" - Stainless](https://www.mcmaster.com/96001A210) (3 for each cap)
 * Retroreflective tape **ADD INFO**
