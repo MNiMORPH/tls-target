@@ -12,6 +12,7 @@ Target for a RIEGL terrestrial laser scanner. The cylinder should be covered in 
     * Cylinder
     * Caps (print two of these)
   * Suggested material: ABS
+  * Infill: 15-20%
 * Screws: 6x [#4 Thread Forming, 1/2" - Stainless](https://www.mcmaster.com/96001A210) (3 for each cap)
 * Retroreflective tape: [3M™ Diamond Grade™ Conspicuity Markings Series 983](http://www.identi-tape.com/3M-conspicuity.htm)
 
