@@ -19,8 +19,8 @@ Target for a RIEGL terrestrial laser scanner. The cylinder should be covered in 
 ## Instructions
 
 1. Generate gCode for your 3D printer. We use [Slic3r with a Prusa 3D printer](https://www.prusa3d.com/prusaslicer/).
-2. Print using ABS, assuming that you are happy with our center mounting hole size. These are large prints, so we recommend that you do something to maintain even heating and cooling. This can be as simple as placing a large cardboard box over the printer while it works.
-3. Tap the caps to a surveyor's standard 5/8" x 11 threads per inch. If you need a different hole size, just edit the provided 3D models before printing and use your desired taps.
+2. Print using ABS, assuming that you are happy with our center mounting hole size. These are large prints, so we recommend that you do something to maintain even heating and cooling. This can be as simple as placing a large cardboard box over the printer while it works. See more information on ABS printing [here](https://www.matterhackers.com/articles/how-to-succeed-when-printing-with-abs).
+3. [Tap](https://www.mcmaster.com/2521A647) the caps to a surveyor's standard 5/8" x 11 threads per inch. If you need a different hole size, just edit the provided 3D models before printing and use your desired taps.
 4. Insert the top and bottom into the main cylinder and use the [screws](https://www.mcmaster.com/96001A210) to firmly attach it.
 5. Wrap the body of the cylinder in retroreflective tape.
 
