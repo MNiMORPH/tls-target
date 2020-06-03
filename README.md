@@ -4,7 +4,7 @@
 Target for a RIEGL terrestrial laser scanner. The cylinder should be covered in retroreflective tape.
 
 ## Attribution
-Design by [Bobby Schulz](https://github.com/bschulz1701). Documentation by [Andrew D. Wickert](https://github.com/awickert/) and Bobby Schulz. Please attribute following CC BY-SA 4.0 (see the [license](LICENSE)). The persistent citation to the most recent version available on Zenodo is as follows:
+Design by [Bobby Schulz](https://github.com/bschulz1701). Documentation by [Andrew D. Wickert](https://github.com/awickert/) and Bobby Schulz. Ideas and motivation for work, as well as target specifications and material suggestions, from [Stephen DeLong](https://www.usgs.gov/staff-profiles/stephen-b-delong). Please attribute following CC BY-SA 4.0 (see the [license](LICENSE)). The persistent citation to the most recent version available on Zenodo is as follows:
 
 ***Schulz, B., and A. D. Wickert. umn-earth-surface/tls-target. [doi:10.5281/zenodo.3873809](https://doi.org/10.5281/zenodo.3873809).***
 
