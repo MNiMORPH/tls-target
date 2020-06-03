@@ -1,9 +1,12 @@
+[![DOI](https://zenodo.org/badge/266727775.svg)](https://zenodo.org/badge/latestdoi/266727775)
+
 # tls-target
 Target for a RIEGL terrestrial laser scanner. The cylinder should be covered in retroreflective tape.
 
-**Design by Bobby Schulz.** Please attribute following CC BY-SA 4.0 (see the [license](LICENSE))
-[Add persistent Zenodo link and DOI here once these are generated.]
+## Attribution
+Design by Bobby Schulz. Documentation by Bobby Schulz and Andrew D. Wickert. Please attribute following CC BY-SA 4.0 (see the [license](LICENSE)). The persistent citation to the most recent version available on Zenodo is as follows:
 
+***Schulz, B., and A. D. Wickert. umn-earth-surface/tls-target. [doi:10.5281/zenodo.3873809](https://doi.org/10.5281/zenodo.3873809).***
 
 ## Technical specifications
 
